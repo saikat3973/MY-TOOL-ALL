@@ -13,6 +13,10 @@ Suggested(1111vpn)🤫
 Run this Command 👇🏻
 
 ```
+pkg update && pkg upgrade
+pkg install git
+pkg install python
+pip install httpx
 git clone https://github.com/saikat3973/MY-TOOL-ALL.git
 cd MY-TOOL-ALL
 chmod 777 *
